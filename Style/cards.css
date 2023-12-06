@@ -162,6 +162,8 @@
     margin-bottom: 0;
     margin-top: 20px;
     margin-left: 3.5rem;
+    padding-right: 1rem;
+    
 
 }
 
@@ -184,7 +186,8 @@
     font-size: 20px;
 }
 .card p{
-    font-size: 18px;
+    font-size: 15px;
+    line-height: 1.6;
 }
 
     .card-wrapper {

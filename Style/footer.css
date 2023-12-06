@@ -60,7 +60,7 @@
     position: relative;
     width: 15rem;
     height: 3.4rem;
-    
+   
     /* border: 2px solid yellow; */
 }
 .company-footer .site-logo a img{
@@ -70,6 +70,11 @@
     /* width: 100%; */
     height: 100%;
     object-fit: cover;
+    transition: 0.2s all ease;
+}
+.company-footer .site-logo a img:hover{
+    filter: brightness(0.5);
+    transform: scale(1.03);
 }
 
 
